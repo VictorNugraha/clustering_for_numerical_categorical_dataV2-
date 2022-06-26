@@ -1,0 +1,45 @@
+---
+title: "LBB DSS - Customer Segmentation Using PAM"
+author: "Victor Nugraha"
+date: "`r format(Sys.Date(), '%B %e, %Y')`"
+output: 
+  html_document:
+    theme: flatly
+    higlight: zenburn
+    toc: true
+    toc_float:
+      collapsed: false
+    number_sections: true
+    df_print: paged
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+Dear Bapak/Ibu,
+
+Selamat atas keberhasilannya melewati 3 hari pembelajaran di kelas DSS - Building Customer Segmentation Using PAM! Dalam rangka meningkatkan kemampuan Bapak dan Ibu dalam mengimplementasikan ilmu yang didapatkan di kelas, kami menyediakan modul Learn by Building sebagai sarana Bapak dan Ibu untuk berlatih dalam membangun study case.
+
+Kami sangat menyarankan bagi Bapak/Ibu yang berencana untuk meningkatkan skill sebagai seorang Data Scientist agar dapat mengerjakan modul tambahan ini, selain itu hasil dari model tambahan ini dapat ditambahkan sebagai portofolio pribadi. 
+
+Berikut beberapa saran dataset yang bisa Bapak/Ibu gunakan sebagai case Building Customer Segmentation pada modul ini:
+
+- https://www.kaggle.com/datasets/shwetabh123/mall-customers - Easy
+- Menggunakan data dari package ISLR, mengenai penerimaan murid ke perguruan tinggi. Nama objek data pada package tersebut adalah College
+-
+
+Dalam pembuatan report, jangan lupa untuk menyertakan hal-hal berikut:
+
+- Proses preprocessing data berupa cleansing dan eksplorasi data analisis.
+- Metode perhitungan jarak dengan metode Gower Distance 
+- Menentukan jumlah kelompok cluster 
+- Pembuatan cluster dengan metode PAM
+- Visualisasi & interpretasi dari setiap cluster  
+
+Hasil report analysis yang telah dikerjakan, silahkan diunggah ke dalam salah satu situs publikasi pilihan Bapak/Ibu (Github / Rpubs / Kaggle Kernel), kemudian silahkan mencantumkan linknya saat melakukan Submit LBB. Link kepada situs publikasi pilihan Bapak/Ibu akan kami berikan feedback terkait pekerjaan Bapak/Ibu yang mengumpulkan modul Learn by Building ini mengenai hal-hal yang dirasa bisa dikembangkan.
+
+Jika ada pertanyaan yang ingin Bapak/Ibu tanyakan, silahkan menghubungi kami via email di mentor@algorit.ma. Kami akan dengan senang hati membantu.
+
+Terima kasih dan good luck !
